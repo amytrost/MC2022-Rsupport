@@ -1,0 +1,413 @@
+﻿common_name,species_group,latin_name,est_pop,IUCN_abbr,IUCN_category,Trend,domesticated_YN
+Christmas Island Pipistrelle,bats,Pipistrellus murrayi,0,EX,Extinct,Steady,FALSE
+Jamaican greater funnel-eared bat,bats,Natalus jamaicensis,50,CR,Critically Endangered,Decrease,FALSE
+Cuban greater funnel-eared bat,bats,Natalus primus,100,CR,Critically Endangered,Decrease,FALSE
+Seychelles Sheath-tailed Bat,bats,Coleura seychellensis,100,CR,Critically Endangered,Decrease,FALSE
+Bulmer's fruit bat,bats,Aproteles bulmerae,160,CR,Critically Endangered,Decrease,FALSE
+Jamaican flower bat,bats,Phyllonycteris aphylla,250,CR,Critically Endangered,Decrease,FALSE
+Flat-headed myotis,bats,Myotis planiceps,250,EN,Endangered,Decrease,FALSE
+Bonin Flying Fox,bats,Pteropus pselaphon,300,CR,Critically Endangered,Decrease,FALSE
+Arnhem leaf-nosed bat,bats,Hipposideros inornatus,300,VU,Vulnerable,Steady,FALSE
+New Georgian Monkey-faced Bat,bats,Pteralopex taki,500,EN,Endangered,Decrease,FALSE
+Canary big-eared bat,bats,Plecotus teneriffae,1000,EN,Endangered,Decrease,FALSE
+Livingstone's fruit bat,bats,Pteropus livingstonii,1200,EN,Endangered,Decrease,FALSE
+New Caledonia Wattled Bat,bats,Chalinolobus neocaledonicus,1500,EN,Endangered,Decrease,FALSE
+Azores noctule,bats,Nyctalus azoreum,3500,EN,Endangered,Decrease,FALSE
+Rodrigues flying fox,bats,Pteropus rodricensis,4000,CR,Critically Endangered,Increase,FALSE
+Coastal sheath-tailed bat,bats,Taphozous australis,5000,NT,Near Threatened,Decrease,FALSE
+Thailand Roundleaf Bat,bats,Hipposideros halophyllus,6000,VU,Vulnerable,Decrease,FALSE
+Kitti's hog-nosed bat,bats,Craseonycteris thonglongyai,6600,VU,Vulnerable,Decrease,FALSE
+Ghost Bat,bats,Macroderma gigas,8000,VU,Vulnerable,Decrease,FALSE
+Giant golden-crowned flying fox,bats,Acerodon jubatus,10000,EN,Endangered,Unknown,FALSE
+Banana bat,bats,Musonycteris harrisoni,10000,VU,Vulnerable,Decrease,FALSE
+Comoro rousette,bats,Rousettus obliviosus,12000,VU,Vulnerable,Decrease,FALSE
+Pemba Flying Fox,bats,Pteropus voeltzkowi,19000,VU,Vulnerable,Increase,FALSE
+Mauritian flying fox,bats,Pteropus niger,25000,EN,Endangered,Decrease,FALSE
+New Zealand lesser short-tailed bat,bats,Mystacina tuberculata,30000,VU,Vulnerable,Decrease,FALSE
+Madagascan flying fox,bats,Pteropus rufus,300000,VU,Vulnerable,Decrease,FALSE
+Little brown bat,bats,Myotis lucifugus,300000,EN,Endangered,Decrease,FALSE
+Indiana bat,bats,Myotis sodalis,387300,EN,Endangered,Decrease,FALSE
+Grey-headed flying fox,bats,Pteropus poliocephalus,500000,VU,Vulnerable,Decrease ,FALSE
+Iriomote cat,carnivore,Prionailurus bengalensis iriomotensis,100,CR,Critically Endangered,Decrease,FALSE
+Amur Leopard,carnivore,Panthera pardus orientalis,103,CR,Critically Endangered,Steady,FALSE
+Malabar large-spotted civet,carnivore,Viverra civettina,250,CR,Critically Endangered,Unknown,FALSE
+Darwin's fox,carnivore,Pseudalopex fulvipes,250,EN,Endangered,Increase,FALSE
+Black-footed ferret,carnivore,Mustela nigripes,300,EN,Endangered,Increase,FALSE
+Red wolf,carnivore,Canis rufus,300,CR,Critically Endangered,Increase,FALSE
+Saimaa ringed seal,carnivore,Pusa hispida saimensis,380,EN,Endangered,Steady,FALSE
+Cozumel raccoon,carnivore,Procyon pygmaeus,500,CR,Critically Endangered,Decrease,FALSE
+Ethiopian wolf,carnivore,Canis simensis,500,EN,Endangered,Decrease,FALSE
+Siberian tiger,carnivore,Panthera tigris tigris,560,EN,Endangered,Increase,FALSE
+Asiatic lion,carnivore,Panthera leo leo,674,EN,Endangered,Increase,FALSE
+Mediterranean monk seal,carnivore,Monachus monachus,700,EN,Endangered,Decrease,FALSE
+Iberian lynx,carnivore,Lynx pardinus,855,EN,Endangered,Increase,FALSE
+Marine otter,carnivore,Lontra felina,1000,EN,Endangered,Decrease,FALSE
+Hawaiian monk seal,carnivore,Neomonachus schauinslandi,1400,EN,Endangered,Steady,FALSE
+Giant panda,carnivore,Ailuropoda melanoleuca,1800,VU,Vulnerable,Increase,FALSE
+Bay cat,carnivore,Pardofelis badia,2200,EN,Endangered,Decrease,FALSE
+Dhole,carnivore,Cuon alpinus,2500,EN,Endangered,Decrease,FALSE
+Fossa,carnivore,Cryptoprocta ferox,2500,VU,Vulnerable,Decrease,FALSE
+Andean mountain cat,carnivore,Leopardus jacobita,2500,EN,Endangered,Decrease,FALSE
+Bengal Tiger,carnivore,Panthera tigris tigris,2967,EN,Endangered,Increase,FALSE
+Giant otter,carnivore,Pteronura brasiliensis,3000,EN,Endangered,Decrease,FALSE
+Grandidier's mongoose,carnivore,Galidictis grandidieri,3000,EN,Endangered,Decrease,FALSE
+Snow leopard,carnivore,Panthera uncia,3000,VU,Vulnerable,Decrease,FALSE
+Tiger,carnivore,Panthera tigris,4000,EN,Endangered,Increase,FALSE
+Island fox,carnivore,Urocyon littoralis,4001,NT,Near Threatened,Increase,FALSE
+Sunda clouded leopard,carnivore,Neofelis diardi,4500,VU,Vulnerable,Decrease,FALSE
+African wild dog,carnivore,Lycaon pictus,6600,EN,Endangered,Decrease,FALSE
+Cheetah,carnivore,Acinonyx jubatus,7100,VU,Vulnerable,Decrease,FALSE
+Brown hyena,carnivore,Parahyaena brunnea,8000,NT,Near Threatened,Decrease,FALSE
+Eurasian lynx,carnivore,Lynx lynx,8000,LC,Least Concern,Steady,FALSE
+Marbled cat,carnivore,Pardofelis marmorata,10000,VU,Vulnerable,Decrease,FALSE
+Rusty-spotted cat,carnivore,Prionailurus rubiginosus,10000,VU,Vulnerable,Decrease,FALSE
+Clouded leopard,carnivore,Neofelis nebulosa,10000,VU,Vulnerable,Decrease,FALSE
+Red panda,carnivore,Ailurus fulgens,10000,VU,Vulnerable,Increase,FALSE
+African golden cat,carnivore,Caracal aurata,10000,VU,Vulnerable,Decrease,FALSE
+Chinese mountain cat,carnivore,F. bieti,10000,VU,Vulnerable,Decrease,FALSE
+New Zealand sea lion,carnivore,Phocarctos hookeri,11855,EN,Endangered,Decrease,FALSE
+Juan Fernández fur seal,carnivore,Arctophoca philippii,12000,NT,Near Threatened,Increase,FALSE
+Galápagos fur seal,carnivore,Arctophoca galapagoensis,12500,EN,Endangered,Decrease,FALSE
+Australian sea lion,carnivore,Neophoca cinerea,13790,EN,Endangered,Decrease,FALSE
+Striped hyena,carnivore,Hyaena hyaena,14000,NT,Near Threatened,Decrease,FALSE
+Sechuran fox,carnivore,Lycalopex sechurae,15000,NT,Near Threatened,Unknown,FALSE
+Guadalupe fur seal,carnivore,Arctophoca townsendi,16000,NT,Near Threatened,Increase,FALSE
+Kodkod,carnivore,Leopardus guigna,18000,VU,Vulnerable,Decrease,FALSE
+Leopard seal,carnivore,Hydrurga leptonyx,18000,LC,Least Concern,Unknown,FALSE
+Lion,carnivore,Panthera leo,20000,VU,Vulnerable,Increase,FALSE
+Sloth bear,carnivore,Melursus ursinus,20000,VU,Vulnerable,Decrease,FALSE
+Maned wolf,carnivore,Chrysocyon brachyurus,23600,NT,Near Threatened,Unknown,FALSE
+Polar bear,carnivore,Ursus maritimus,25000,VU,Vulnerable,Steady,FALSE
+Galápagos sea lion,carnivore,Zalophus wollebaeki,30000,EN,Endangered,Decrease,FALSE
+Spotted hyena,carnivore,Crocuta crocuta,37000,LC,Least Concern,Decrease,FALSE
+Cougar,carnivore,Puma concolor,50000,LC,Least Concern,Decrease,FALSE
+Jaguar,carnivore,Panthera onca,64000,NT,Near Threatened,Decrease,FALSE
+Leopard,carnivore,Panthera pardus,75000,VU,Vulnerable,Decrease,FALSE
+Baikal seal,carnivore,Pusa sibirica,90000,LC,Least Concern,Steady,FALSE
+Sea otter,carnivore,Enhydra lutris,106822,EN,Endangered,Decrease,FALSE
+Bush dog,carnivore,Speothos venaticus,110000,NT,Near Threatened,Decrease,FALSE
+Caspian seal,carnivore,Pusa caspica,111000,EN,Endangered,Decrease,FALSE
+Ross seal,carnivore,Ommatophoca rossii,130000,LC,Least Concern,Unknown,FALSE
+Steller sea lion,carnivore,Eumetopias jubatus,143000,NT,Near Threatened,Increase,FALSE
+Northern elephant seal,carnivore,Mirounga angustirostris,171000,LC,Least Concern,Increase,FALSE
+California sea lion,carnivore,Zalophus californianus,180000,LC,Least Concern,Increase,FALSE
+New Zealand fur seal,carnivore,Arctophoca forsteri,200000,LC,Least Concern,Increase,FALSE
+Brown bear,carnivore,Ursus arctos,200000,LC,Least Concern,Steady,FALSE
+Subantarctic fur seal,carnivore,Arctophoca tropicalis,200000,LC,Least Concern,Increase,FALSE
+South American sea lion,carnivore,Otaria flavescens,250000,LC,Least Concern,Steady,FALSE
+South American fur seal,carnivore,Arctophoca australis,275000,LC,Least Concern,Increase,FALSE
+Grey wolf,carnivore,Canis lupus,300000,LC,Least Concern,Unknown,FALSE
+Weddell seal,carnivore,Leptonychotes weddellii,300000,LC,Least Concern,Unknown,FALSE
+Harbor seal,carnivore,Phoca vitulina,315000,LC,Least Concern,Unknown,FALSE
+Grey seal,carnivore,Halichoerus grypus,316000,LC,Least Concern,Increase,FALSE
+Southern elephant seal,carnivore,Mirounga leonina,325000,LC,Least Concern,Unknown,FALSE
+Hooded seal,carnivore,Cystophora cristata,340000,VU,Vulnerable,Decrease,FALSE
+Northern fur seal,carnivore,Callorhinus ursinus,650000,VU,Vulnerable,Decrease,FALSE
+American black bear,carnivore,Ursus americanus,950000,LC,Least Concern,Increase,FALSE
+Brown fur seal,carnivore,Arctocephalus pusillus,1060000,LC,Least Concern,Increase,FALSE
+Crabeater seal,carnivore,Lobodon carcinophaga,4000000,LC,Least Concern,Unknown,FALSE
+Harp seal,carnivore,Pagophilus groenlandicus,4500000,LC,Least Concern,Increase,FALSE
+Cat (domestic),carnivore,Felis catus,600000000,,,Increase,TRUE
+Dog (domestic),carnivore,Canis familiaris,900000000,,,Increase,TRUE
+Red fox,carnivore,Vulpes vulpes,0,LC,Least Concern,Increase,FALSE
+Vaquita,cetacean,Phocoena sinus,12,CR,Critically Endangered,,FALSE
+Baiji,cetacean,Lipotes vexillifer,13,CR,Critically Endangered,,FALSE
+Rice's whale,cetacean,Balaenoptera ricei,60,CR,Critically Endangered,,FALSE
+North Atlantic right whale,cetacean,Eubalaena glacialis,350,CR,Critically Endangered,,FALSE
+Perrin's beaked whale,cetacean,Mesoplodon perrini,700,EN,Endangered,,FALSE
+Araguaian river dolphin,cetacean,Inia araguaiaensis,1000,VU,Vulnerable,,FALSE
+Blue whale,cetacean,Balaenoptera musculus,1000,EN,Endangered,,FALSE
+North Pacific right whale,cetacean,Eubalaena japonica,1000,EN,Endangered,,FALSE
+Indus river dolphin,cetacean,Platanista minor,1450,EN,Endangered,,FALSE
+Atlantic humpback dolphin,cetacean,Sousa teuszii,1500,CR,Critically Endangered,,FALSE
+Ganges river dolphin,cetacean,Platanista gangetica,3500,EN,Endangered,,FALSE
+La Plata dolphin,cetacean,Pontoporia blainvillei,4200,VU,Vulnerable,,FALSE
+Australian snubfin dolphin,cetacean,Orcaella heinsohni,9500,VU,Vulnerable,,FALSE
+Australian humpback dolphin,cetacean,Sousa sahulensis,10000,VU,Vulnerable,,FALSE
+Bowhead whale,cetacean,Balaena mysticetus,10000,LC,Least Concern,,FALSE
+Northern bottlenose whale,cetacean,Hyperoodon ampullatus,10000,NT,Near Threatened,,FALSE
+Southern right whale,cetacean,Eubalaena australis,13600,LC,Least Concern,,FALSE
+Gray whale,cetacean,Eschrichtius robustus,21000,LC,Least Concern,,FALSE
+Commerson's dolphin,cetacean,Cephalorhynchus commersonii,22000,LC,Least Concern,,FALSE
+Sei whale,cetacean,Balaenoptera borealis,80000,EN,Endangered,,FALSE
+Humpback whale,cetacean,Megaptera novaeangliae,84000,LC,Least Concern,,FALSE
+Bryde's whale,cetacean,Balaenoptera brydei,95000,LC,Least Concern,,FALSE
+Atlantic spotted dolphin,cetacean,Stenella frontalis,100000,LC,Least Concern,,FALSE
+Cuvier's beaked whale,cetacean,Ziphius cavirostris,100000,LC,Least Concern,,FALSE
+Fin whale,cetacean,Balaenoptera physalus,100000,VU,Vulnerable,,FALSE
+Narwhal,cetacean,Monodon monoceros,123000,LC,Least Concern,,FALSE
+Beluga,cetacean,Delphinapterus leucas,136000,LC,Least Concern,,FALSE
+Common minke whale,cetacean,Balaenoptera acutorostrata,200000,LC,Least Concern,,FALSE
+Atlantic white-sided dolphin,cetacean,Lagenorhynchus acutus,250000,LC,Least Concern,,FALSE
+Southern bottlenose whale,cetacean,Hyperoodon planifrons,500000,LC,Least Concern,,FALSE
+Antarctic minke whale,cetacean,Balaenoptera bonaerensis,515000,NT,Near Threatened,,FALSE
+Common bottlenose dolphin,cetacean,Tursiops truncatus,600000,LC,Least Concern,,FALSE
+Harbour porpoise,cetacean,Phocoena phocoena,700000,LC,Least Concern,,FALSE
+Sperm whale,cetacean,Physeter macrocephalus,1000000,VU,Vulnerable,,FALSE
+Dall's porpoise,cetacean,Phocoenoides dalli,1100000,LC,Least Concern,,FALSE
+Narrow-ridged finless porpoise,cetacean,Neophocaena asiaeorientalis,,EN,Endangered,,FALSE
+Arnoux's beaked whale,cetacean,Berardius arnuxii,,LC,Least Concern,,FALSE
+Baird's beaked whale,cetacean,Berardius bairdii,,LC,Least Concern,,FALSE
+Chilean dolphin,cetacean,Cephalorhynchus eutropia,,NT,Near Threatened,,FALSE
+Common dolphin,cetacean,Delphinus delphis,,LC,Least Concern,,FALSE
+Dwarf sperm whale,cetacean,Kogia sima,,LC,Least Concern,,FALSE
+False killer whale,cetacean,Pseudorca crassidens,,NT,Near Threatened,,FALSE
+Fraser's dolphin,cetacean,Lagenodelphis hosei,,LC,Least Concern,,FALSE
+Pygmy sperm whale,cetacean,Kogia breviceps,,LC,Least Concern,,FALSE
+Shepherd's beaked whale,cetacean,Tasmacetus shepherdi,,DD,Data Deficient,,FALSE
+Tropical bottlenose whale,cetacean,Indopacetus pacificus,,LC,Least Concern,,FALSE
+Amazon river dolphin,cetacean,Inia geoffrensis,,EN,Endangered,,FALSE
+Andrews' beaked whale,cetacean,Mesoplodon bowdoini,,DD,Data Deficient,,FALSE
+Blainville's beaked whale,cetacean,Mesoplodon densirostris,,LC,Least Concern,,FALSE
+Burmeister's porpoise,cetacean,Phocoena spinipinnis,,NT,Near Threatened,,FALSE
+Clymene dolphin,cetacean,Stenella clymene,,LC,Least Concern,,FALSE
+Deraniyagala's beaked whale,cetacean,Mesoplodon hotaula,,DD,Data Deficient,,FALSE
+Dusky dolphin,cetacean,Lagenorhynchus obscurus,,LC,Least Concern,,FALSE
+Eden's whale,cetacean,Balaenoptera edeni,,LC,Least Concern,,FALSE
+Gervais' beaked whale,cetacean,Mesoplodon europaeus,,LC,Least Concern,,FALSE
+Ginkgo-toothed beaked whale,cetacean,Mesoplodon ginkgodens,,DD,Data Deficient,,FALSE
+Gray's beaked whale,cetacean,Mesoplodon grayi,,LC,Least Concern,,FALSE
+Hector's beaked whale,cetacean,Mesoplodon hectori,,DD,Data Deficient,,FALSE
+Hubbs' beaked whale,cetacean,Mesoplodon carlhubbsi,,DD,Data Deficient,,FALSE
+Indo-Pacific bottlenose dolphin,cetacean,Tursiops aduncus,,NT,Near Threatened,,FALSE
+Indo-Pacific finless porpoise,cetacean,Neophocaena phocaenoides,,VU,Vulnerable,,FALSE
+Omura's whale,cetacean,Balaenoptera omurai,,DD,Data Deficient,,FALSE
+Pygmy beaked whale,cetacean,Mesoplodon peruvianus,,LC,Least Concern,,FALSE
+Pygmy right whale,cetacean,Caperea marginata,,LC,Least Concern,,FALSE
+Ramari's beaked whale,cetacean,Mesoplodon eueu,,NE,Not Evaluated,,FALSE
+Sato's beaked whale,cetacean,Berardius minimus,,NT,Near Threatened,,FALSE
+Sowerby's beaked whale,cetacean,Mesoplodon bidens,,LC,Least Concern,,FALSE
+Spade-toothed whale,cetacean,Mesoplodon traversii,,DD,Data Deficient,,FALSE
+Spectacled porpoise,cetacean,Phocoena dioptrica,,LC,Least Concern,,FALSE
+Stejneger's beaked whale,cetacean,Mesoplodon stejnegeri,,NT,Near Threatened,,FALSE
+Strap-toothed whale,cetacean,Mesoplodon layardii,,LC,Least Concern,,FALSE
+True's beaked whale,cetacean,Mesoplodon mirus,,LC,Least Concern,,FALSE
+Borneo elephant,elephant,Elephas maximus borneensis,1300,EN,Endangered,Decrease,FALSE
+Sumatran elephant,elephant,Elephas maximus sumatranus,2600,CR,Critically Endangered,Decrease,FALSE
+Sri Lankan elephant,elephant,Elephas maximus maximus,7000,EN,Endangered,Decrease,FALSE
+Indian elephant,elephant,Elephas maximus indicus,27312,EN,Endangered,Decrease,FALSE
+Asian elephant,elephant,Elephas maximus,50000,EN,Endangered,Decrease,FALSE
+African forest elephant,elephant,Loxodonta cyclotis,120000,CR,Critically Endangered,Decrease,FALSE
+African bush elephant,elephant,Loxodonta africana,352000,EN,Endangered,Decrease,FALSE
+Addax,even-toed ungulates,Addax nasomaculatus,60,CR,Critically Endangered,Decrease,FALSE
+Pygmy hog,even-toed ungulates,Porcula salvania,250,CR,Critically Endangered,Decrease,FALSE
+Tamaraw,even-toed ungulates,Bubalus mindorensis,300,CR,Critically Endangered,Decrease,FALSE
+Bawean deer,even-toed ungulates,Axis kuhlii,350,CR,Critically Endangered,Steady,FALSE
+Togian babirusa,even-toed ungulates,Babyrousa togeanensis,500,EN,Endangered,Decrease,FALSE
+Walia ibex,even-toed ungulates,Capra walie,500,EN,Endangered,Increase,FALSE
+Dama gazelle,even-toed ungulates,Nanger dama,500,CR,Critically Endangered,Decrease,FALSE
+Persian fallow deer,even-toed ungulates,Dama mesopotamica,715,EN,Endangered,Increase,FALSE
+Saola,even-toed ungulates,Pseudoryx nghetinhensis,750,CR,Critically Endangered,Decrease,FALSE
+Anhui musk deer,even-toed ungulates,Moschus anhuiensis,750,EN,Endangered,Decrease,FALSE
+Przewalski's gazelle,even-toed ungulates,Procapra przewalskii,750,EN,Endangered,Increase,FALSE
+Wild Bactrian camel,even-toed ungulates,Camelus ferus,950,CR,Critically Endangered,Decrease,FALSE
+Calamian deer,even-toed ungulates,Axis calamianensis,1123,EN,Endangered,Decrease,FALSE
+South Andean deer,even-toed ungulates,Hippocamelus bisulcus,1200,EN,Endangered,Decrease,FALSE
+Hirola,even-toed ungulates,Beatragus hunteri,1250,CR,Critically Endangered,Decrease,FALSE
+Abbott's duiker,even-toed ungulates,Cephalophus spadix,1500,EN,Endangered,Decrease,FALSE
+Cuvier's gazelle,even-toed ungulates,Gazella cuvieri,2200,EN,Endangered,unknown,FALSE
+Nilgiri tahr,even-toed ungulates,Nilgiritragus hylocrius,2400,EN,Endangered,Decrease,FALSE
+Pygmy hippopotamus,even-toed ungulates,Choeropsis liberiensis,2500,EN,Endangered,Decrease,FALSE
+Mountain anoa,even-toed ungulates,Bubalus quarlesi,2500,EN,Endangered,Decrease,FALSE
+Rhim gazelle,even-toed ungulates,Gazella leptoceros,2500,EN,Endangered,Decrease,FALSE
+Visayan spotted deer,even-toed ungulates,Rusa alfredi,2500,EN,Endangered,Decrease,FALSE
+European bison,even-toed ungulates,Bison bonasus,3200,NT,Near Threatened,Increase,FALSE
+Chacoan peccary,even-toed ungulates,Catagonus wagneri,3200,EN,Endangered,Decrease,FALSE
+Mountain nyala,even-toed ungulates,Tragelaphus buxtoni,3250,EN,Endangered,Decrease,FALSE
+Wild water buffalo,even-toed ungulates,Bubalus arnee,3400,EN,Endangered,Decrease,FALSE
+Jentink's duiker,even-toed ungulates,Cephalophus jentinki,3500,EN,Endangered,Decrease,FALSE
+Nile lechwe,even-toed ungulates,Kobus megaceros,4291,EN,Endangered,Decrease,FALSE
+Barasingha,even-toed ungulates,Rucervus duvaucelii,4300,VU,Vulnerable,Decrease,FALSE
+Small red brocket,even-toed ungulates,Mazama bororo,4500,VU,Vulnerable,Decrease,FALSE
+Arabian tahr,even-toed ungulates,Arabitragus jayakari,5000,EN,Endangered,Decrease,FALSE
+West Caucasian tur,even-toed ungulates,Capra caucasica,5500,EN,Endangered,Decrease,FALSE
+Beira,even-toed ungulates,Dorcatragus megalotis,7000,VU,Vulnerable,Decrease,FALSE
+Barbary sheep,even-toed ungulates,Ammotragus lervia,7500,LC,Least Concern,Steady,FALSE
+Arabian Oryx,even-toed ungulates,Oryx leucoryx,7500,VU,Vulnerable,Steady,FALSE
+Hairy-fronted muntjac,even-toed ungulates,Muntiacus crinifrons,7750,VU,Vulnerable,Decrease,FALSE
+Banteng,even-toed ungulates,Bos javanicus,8000,EN,Endangered,Decrease,FALSE
+Markhor,even-toed ungulates,Capra falconeri,9700,NT,Near Threatened,Increase,FALSE
+Nubian ibex,even-toed ungulates,Capra nubiana,10000,VU,Vulnerable,Decrease,FALSE
+Southern pudú,even-toed ungulates,Pudu puda,10000,NT,Near Threatened,Decrease,FALSE
+Red goral,even-toed ungulates,Naemorhedus baileyi,10000,VU,Vulnerable,Decrease,FALSE
+Four-horned antelope,even-toed ungulates,Tetracerus quadricornis,10000,LC,Least Concern,Decrease,FALSE
+Javan rusa,even-toed ungulates,Rusa timorensis,10000,VU,Vulnerable,Decrease,FALSE
+Soemmerring's gazelle,even-toed ungulates,Nanger soemmerringii,14000,VU,Vulnerable,Decrease,FALSE
+Taruca,even-toed ungulates,Hippocamelus antisensis,14500,VU,Vulnerable,Decrease,FALSE
+Mountain gazelle,even-toed ungulates,Gazella gazella,15000,VU,Vulnerable,Decrease,FALSE
+Wild yak,even-toed ungulates,Bos mutus,15000,VU,Vulnerable,Decrease,FALSE
+Giant eland,even-toed ungulates,Tragelaphus derbianus,17500,LC,Least Concern,Decrease,FALSE
+Black wildebeest,even-toed ungulates,Connochaetes gnou,18000,LC,Least Concern,Increase,FALSE
+Grey rhebok,even-toed ungulates,Pelea capreolus,18000,LC,Least Concern,Steady,FALSE
+Gaur,even-toed ungulates,Bos gaurus,20000,VU,Vulnerable,Decrease,FALSE
+Harvey's duiker,even-toed ungulates,Cephalophus harveyi,20000,LC,Least Concern,Decrease,FALSE
+Red-fronted gazelle,even-toed ungulates,Eudorcas rufifrons,25000,VU,Vulnerable,Decrease,FALSE
+Zebra duiker,even-toed ungulates,Cephalophus zebra,28000,VU,Vulnerable,Decrease,FALSE
+Bongo,even-toed ungulates,Tragelaphus eurycerus,28000,NT,Near Threatened,Decrease,FALSE
+Alpine ibex,even-toed ungulates,Capra ibex,30000,LC,Least Concern,Increase,FALSE
+Silver Dik-dik,even-toed ungulates,Madoqua piacentinii,30000,DD,Data Deficient,Decrease,FALSE
+Nyala,even-toed ungulates,Tragelaphus angasii,32000,LC,Least Concern,Steady,FALSE
+Ogilby's duiker,even-toed ungulates,Cephalophus ogilbyi,35000,LC,Least Concern,Decrease,FALSE
+Mountain reedbuck,even-toed ungulates,Redunca fulvorufula,36000,LC,Least Concern,Steady,FALSE
+Red forest duiker,even-toed ungulates,Cephalophus natalensis,42000,LC,Least Concern,Decrease,FALSE
+Klipspringer,even-toed ungulates,Oreotragus oreotragus,42000,LC,Least Concern,Steady,FALSE
+Okapi,even-toed ungulates,Okapia johnstoni,42500,EN,Endangered,Decrease,FALSE
+Pampas deer,even-toed ungulates,Ozotoceros bezoarticus,50000,NT,Near Threatened,Decrease,FALSE
+Blackbuck,even-toed ungulates,Antilope cervicapra,50000,NT,Near Threatened,Steady,FALSE
+Spanish ibex,even-toed ungulates,Capra pyrenaica,50000,LC,Least Concern,Increase,FALSE
+Royal antelope,even-toed ungulates,Neotragus pygmaeus,62000,LC,Least Concern,Decrease,FALSE
+East African oryx,even-toed ungulates,Oryx beisa,67000,NT,Near Threatened,Decrease,FALSE
+Southern reedbuck,even-toed ungulates,Redunca arundinum,73000,LC,Least Concern,Steady,FALSE
+Sable antelope,even-toed ungulates,Hippotragus niger,75000,LC,Least Concern,Steady,FALSE
+Roan antelope,even-toed ungulates,Hippotragus equinus,76000,LC,Least Concern,Decrease,FALSE
+Gerenuk,even-toed ungulates,Litocranius walleri,95000,NT,Near Threatened,Decrease,FALSE
+Sharpe's Grysbok,even-toed ungulates,Raphicerus sharpei,95000,LC,Least Concern,Steady,FALSE
+Mountain goat,even-toed ungulates,Oreamnos americanus,100000,LC,Least Concern,Steady,FALSE
+Japanese serow,even-toed ungulates,Capricornis crispus,100000,LC,Least Concern,Increase,FALSE
+Black duiker,even-toed ungulates,Cephalophus niger,100000,LC,Least Concern,Decrease,FALSE
+Bohor reedbuck,even-toed ungulates,Redunca redunca,101000,LC,Least Concern,Decrease,FALSE
+Hippopotamus,even-toed ungulates,Hippopotamus amphibius,112000,VU,Vulnerable,Steady,FALSE
+Dall sheep,even-toed ungulates,Ovis dalli,113000,LC,Least Concern,Steady,FALSE
+Lesser kudu,even-toed ungulates,Tragelaphus imberbis,118000,NT,Near Threatened,Decrease,FALSE
+Goitered gazelle,even-toed ungulates,Gazella subgutturosa,130000,VU,Vulnerable,Decrease,FALSE
+Puku,even-toed ungulates,Kobus vardonii,130000,NT,Near Threatened,Decrease,FALSE
+Muskox,even-toed ungulates,Ovibos moschatus,135000,LC,Least Concern,Steady,FALSE
+Common eland,even-toed ungulates,Tragelaphus oryx,136000,LC,Least Concern,Steady,FALSE
+Yellow-backed duiker,even-toed ungulates,Cephalophus silvicultor,160000,LC,Least Concern,Decrease,FALSE
+Saiga Antelope,even-toed ungulates,Saiga tatarica,165000,CR,Critically Endangered,Decrease,FALSE
+Red-flanked duiker,even-toed ungulates,Cephalophus rufilatus,170000,LC,Least Concern,Decrease,FALSE
+Sitatunga,even-toed ungulates,Tragelaphus spekii,170000,LC,Least Concern,Decrease,FALSE
+Weyns's duiker,even-toed ungulates,Cephalophus weynsi,188000,LC,Least Concern,Decrease,FALSE
+Waterbuck,even-toed ungulates,Kobus ellipsiprymnus,200000,LC,Least Concern,Decrease,FALSE
+Lechwe,even-toed ungulates,Kobus leche,212000,LC,Least Concern,Steady,FALSE
+Bates's pygmy antelope,even-toed ungulates,Neotragus batesi,219000,LC,Least Concern,Steady,FALSE
+Water chevrotain,even-toed ungulates,Hyemoschus aquaticus,278000,LC,Least Concern,Decrease,FALSE
+White-bellied duiker,even-toed ungulates,Cephalophus leucogaster,287000,LC,Least Concern,Decrease,FALSE
+Black-fronted duiker,even-toed ungulates,Cephalophus nigrifrons,300000,LC,Least Concern,Decrease,FALSE
+Vicuña,even-toed ungulates,Vicugna vicugna,347273,LC,Least Concern,Increase,FALSE
+Grant's gazelle,even-toed ungulates,Nanger granti,350000,LC,Least Concern,Decrease,FALSE
+Hartebeest,even-toed ungulates,Alcelaphus buselaphus,362000,LC,Least Concern,Decrease,FALSE
+Suni,even-toed ungulates,Nesotragus moschatus,365000,LC,Least Concern,Steady,FALSE
+Gemsbok,even-toed ungulates,Oryx gazella,373000,LC,Least Concern,Steady,FALSE
+Peters's duiker,even-toed ungulates,Cephalophus callipygus,382000,LC,Least Concern,Decrease,FALSE
+Mongolian gazelle,even-toed ungulates,Procapra gutturosa,400000,LC,Least Concern,Unknown,FALSE
+Greater kudu,even-toed ungulates,Tragelaphus strepsiceros,482000,LC,Least Concern,Steady,FALSE
+Salt's dik-dik,even-toed ungulates,Madoqua saltiana,485600,LC,Least Concern,Steady,FALSE
+Günther's dik-dik,even-toed ungulates,Madoqua guentheri,511000,LC,Least Concern,Steady,FALSE
+American bison,even-toed ungulates,Bison bison,530000,NT,Near Threatened,Steady,FALSE
+Guanaco,even-toed ungulates,Lama guanicoe,550000,LC,Least Concern,Steady,FALSE
+Thomson's gazelle,even-toed ungulates,Eudorcas thomsonii,550000,NT,Near Threatened,Decrease,FALSE
+Steenbok,even-toed ungulates,Raphicerus campestris,600000,LC,Least Concern,Steady,FALSE
+Pronghorn,even-toed ungulates,Antilocapra americana,700000,LC,Least Concern,Steady,FALSE
+Bay duiker,even-toed ungulates,Cephalophus dorsalis,725000,LC,Least Concern,Decrease,FALSE
+Oribi,even-toed ungulates,Ourebia ourebi,750000,LC,Least Concern,Decrease,FALSE
+African buffalo,even-toed ungulates,Syncerus caffer,890000,LC,Least Concern,Decrease,FALSE
+Kirk's dik-dik,even-toed ungulates,Madoqua kirkii,971000,LC,Least Concern,Steady,FALSE
+Siberian roe deer,even-toed ungulates,Capreolus pygargus,1000000,NT,Near Threatened,Decrease,FALSE
+Bushbuck,even-toed ungulates,Tragelaphus scriptus,1340000,LC,Least Concern,Steady,FALSE
+Moose,even-toed ungulates,Alces alces,1500000,LC,Least Concern,Increase,FALSE
+Blue wildebeest,even-toed ungulates,Connochaetes taurinus,1550000,LC,Least Concern,Steady,FALSE
+Common duiker,even-toed ungulates,Sylvicapra grimmia,1660000,LC,Least Concern,Steady,FALSE
+Impala,even-toed ungulates,Aepyceros melampus,2000000,LC,Least Concern,Steady,FALSE
+Maxwell's duiker,even-toed ungulates,Philantomba maxwellii,2137000,LC,Least Concern,Decrease,FALSE
+Springbok,even-toed ungulates,Antidorcas marsupialis,2250000,LC,Least Concern,Increase,FALSE
+Blue duiker,even-toed ungulates,Philantomba monticola,7000000,LC,Least Concern,Steady,FALSE
+White-tailed deer,even-toed ungulates,Odocoileus virginianus,11500000,LC,Least Concern,Steady,FALSE
+Water buffalo,even-toed ungulates,Bubalus bubalis,172000000,,,,TRUE
+Domestic goat,even-toed ungulates,Capra hircus,850000000,,,,TRUE
+Domestic pig,even-toed ungulates,Sus domesticus,1000000000,,,,TRUE
+Domestic sheep,even-toed ungulates,Ovis aries,1000000000,,,,TRUE
+Cattle,even-toed ungulates,Bos taurus,1500000000,,,,TRUE
+Thylacine,marsupials,Thylacinus cynocephalus,0,EX,Extinct,Decrease,FALSE
+Northern hairy-nosed wombat,marsupials,Lasiorhinus krefftii,230,CR,Critically Endangered,Increase,FALSE
+Common wombat,marsupials,Vombatus ursinus,7500,LC,Least Concern,Steady,FALSE
+Koala,marsupials,Phascolarctos cinereus,60000,EN,Endangered,Decrease,FALSE
+Southern hairy-nosed wombat,marsupials,Lasiorhinus latifrons,100000,LC,Least Concern,Increase,FALSE
+Tasmanian Devil,marsupials,Sarcophilus harrisii,140000,EN,Endangered,Decrease,FALSE
+Western Grey Kangaroo,marsupials,Macropus fuliginosus,2790358,LC,Least Concern,Increase,FALSE
+Red Kangaroo,marsupials,Macropus rufus,8542148,LC,Least Concern,Steady,FALSE
+Eastern Grey Kangaroo,marsupials,Macropus giganteus,16057783,LC,Least Concern,Steady,FALSE
+Antilopine Kangaroo,marsupials,Osphranter antilopinus,0,LC,Least Concern,Decrease,FALSE
+Virginia Opossum,marsupials,Didelphis virginiana,0,LC,Least Concern,Increase,FALSE
+Sumatran rhinoceros,odd-toed ungulates,Dicerorhinus sumatrensis,50,CR,Critically Endangered,Decrease,FALSE
+Javan rhinoceros,odd-toed ungulates,Rhinoceros sondaicus,74,CR,Critically Endangered,Increase,FALSE
+Przewalski's horse,odd-toed ungulates,Equus ferus przewalskii,300,EN,Endangered,Increase,FALSE
+African wild ass,odd-toed ungulates,Equus africanus,600,CR,Critically Endangered,Decrease,FALSE
+Malayan Tapir,odd-toed ungulates,Tapirus Indicus,2000,EN,Endangered,Decrease,FALSE
+Grévy's zebra,odd-toed ungulates,Equus grevyi,2350,EN,Endangered,Steady,FALSE
+Mountain tapir,odd-toed ungulates,Tapirus pinchaque,2500,EN,Endangered,Decrease,FALSE
+Indian rhinoceros,odd-toed ungulates,Rhinoceros unicornis,3588,VU,Vulnerable,Increase,FALSE
+Black rhinoceros,odd-toed ungulates,Diceros bicornis,5400,CR,Critically Endangered,Increase,FALSE
+Baird's tapir,odd-toed ungulates,Tapirus bairdii,5500,EN,Endangered,Decrease,FALSE
+White rhinoceros,odd-toed ungulates,Ceratotherium simum,18000,NT,Near Threatened,Increase,FALSE
+Mountain zebra,odd-toed ungulates,Equus zebra,26500,VU,Vulnerable,Unknown,FALSE
+Onager,odd-toed ungulates,Equus hemionus,55737,NT,Near Threatened,Steady,FALSE
+Kiang,odd-toed ungulates,Equus kiang,65000,LC,Least Concern,Steady,FALSE
+Plains zebra,odd-toed ungulates,Equus quagga,500000,NT,Near Threatened,Decrease,FALSE
+Mule,odd-toed ungulates,Equus asinus x Equus caballus,10000000,,,,TRUE
+Donkey,odd-toed ungulates,Equus africanus asinus,40000000,,,,TRUE
+Horse,odd-toed ungulates,Equus ferus caballus,58000000,,,,TRUE
+Hainan black crested gibbon,Primate,Nomascus hainanus,20,CR,Critically Endangered,Steady,FALSE
+Eastern black crested gibbon,Primate,Nomascus nasutus,36,CR,Critically Endangered,Decrease,FALSE
+Perrier's sifaka,Primate,Propithecus perrieri,230,CR,Critically Endangered,Decrease,FALSE
+Silky sifaka,Primate,Propithecus candidus,250,CR,Critically Endangered,Decrease,FALSE
+Tonkin snub-nosed monkey,Primate,Rhinopithecus avunculus,250,CR,Critically Endangered,Decrease,FALSE
+Barbara Brown's titi,Primate,Callicebus barbarabrownae,260,CR,Critically Endangered,Decrease,FALSE
+Myanmar snub-nosed monkey,Primate,Rhinopithecus strykeri,295,CR,Critically Endangered,Decrease,FALSE
+Sarawak surili,Primate,Presbytis chrysomelas,350,CR,Critically Endangered,Decrease,FALSE
+Superagui lion tamarin,Primate,Leontopithecus caissara,400,CR,Critically Endangered,Decrease,FALSE
+Blond capuchin,Primate,Cebus flavius,500,EN,Endangered,Decrease,FALSE
+Greater bamboo lemur,Primate,Prolemur simus,500,CR,Critically Endangered,Decrease,FALSE
+Kashmir gray langur,Primate,Semnopithecus ajax,500,EN,Endangered,Decrease,FALSE
+Arunachal macaque,Primate,Macaca munzala,569,EN,Endangered,Decrease,FALSE
+Gray-shanked douc,Primate,Pygathrix cinerea,625,CR,Critically Endangered,Decrease,FALSE
+Coimbra Filho's titi,Primate,Callicebus coimbrai,750,EN,Endangered,Decrease,FALSE
+Gray snub-nosed monkey,Primate,Rhinopithecus brelichi,750,EN,Endangered,Decrease,FALSE
+White-headed langur,Primate,Trachypithecus poliocephalus,814,CR,Critically Endangered,Decrease,FALSE
+Northern muriqui,Primate,Brachyteles hypoxanthus,855,CR,Critically Endangered,Decrease,FALSE
+Black lion tamarin,Primate,Leontopithecus chrysopygus,1000,EN,Endangered,Decrease,FALSE
+Tana River mangabey,Primate,Cercocebus galeritus,1100,EN,Endangered,Decrease,FALSE
+Kipunji,Primate,Rungwecebus kipunji,1117,EN,Endangered,Decrease,FALSE
+Sanje mangabey,Primate,Cercocebus sanjei,1300,EN,Endangered,Decrease,FALSE
+Southern muriqui,Primate,Brachyteles arachnoides,1300,EN,Endangered,Decrease,FALSE
+Golden bamboo lemur,Primate,Hapalemur aureus,1479,CR,Critically Endangered,Decrease,FALSE
+Red slender loris,Primate,Loris tardigradus,1500,EN,Endangered,Decrease,FALSE
+Black crested gibbon,Primate,Nomascus concolor,1650,CR,Critically Endangered,Decrease,FALSE
+Zanzibar red colobus,Primate,Procolobus kirkii,2000,EN,Endangered,Decrease,FALSE
+Black snub-nosed monkey,Primate,Rhinopithecus bieti,2000,EN,Endangered,Decrease,FALSE
+Sangihe tarsier,Primate,Tarsius sangirensis,2250,EN,Endangered,Decrease,FALSE
+Javan surili,Primate,Presbytis comata,2350,EN,Endangered,Decrease,FALSE
+Lac Alaotra bamboo lemur,Primate,Hapalemur alaotrensis,2500,CR,Critically Endangered,Decrease,FALSE
+Pagai Island macaque,Primate,Macaca pagensis,2800,CR,Critically Endangered,Decrease,FALSE
+Golden lion tamarin,Primate,Leontopithecus rosalia,3200,EN,Endangered,Steady,FALSE
+Moor macaque,Primate,Macaca maura,4000,EN,Endangered,Decrease,FALSE
+Lion-tailed macaque,Primate,Macaca silenus,4000,EN,Endangered,Decrease,FALSE
+Silvery gibbon,Primate,Hylobates moloch,4250,EN,Endangered,Decrease,FALSE
+Gee's golden langur,Primate,Trachypithecus geei,5500,EN,Endangered,Decrease,FALSE
+Eastern gorilla,Primate,Gorilla beringei,5880,CR,Critically Endangered,Decrease,FALSE
+Siau Island tarsier,Primate,Tarsius tumpara,6000,CR,Critically Endangered,Decrease,FALSE
+Cotton-top tamarin,Primate,Saguinus oedipus,6000,EN,Endangered,Decrease,FALSE
+Gray-headed lemur,Primate,Eulemur cinereiceps,7265,CR,Critically Endangered,Decrease,FALSE
+Sumatran orangutan,Primate,Pongo abelii,7300,CR,Critically Endangered,Decrease,FALSE
+Golden-crowned sifaka,Primate,Propithecus tattersalli,8000,CR,Critically Endangered,Decrease,FALSE
+Madame Berthe's mouse lemur,Primate,Microcebus berthae,8000,EN,Endangered,Decrease,FALSE
+Natuna Island surili,Primate,Presbytis natunae,10000,VU,Vulnerable,Decrease,FALSE
+Roosmalens' dwarf marmoset,Primate,Callibella humilis,10000,VU,Vulnerable,Decrease,FALSE
+Golden-headed lion tamarin,Primate,Leontopithecus chrysomelas,10500,EN,Endangered,Decrease,FALSE
+Pig-tailed langur,Primate,Simias concolor,11000,EN,Endangered,Decrease,FALSE
+Barbary macaque,Primate,Macaca sylvanus,15000,EN,Endangered,Decrease,FALSE
+Udzungwa red colobus,Primate,Procolobus gordonorum,15400,EN,Endangered,Decrease,FALSE
+Northern giant mouse lemur,Primate,Mirza zaza,17000,VU,Vulnerable,Decrease,FALSE
+Nilgiri langur,Primate,Trachypithecus johnii,20000,VU,Vulnerable,Decrease,FALSE
+Red-eared guenon,Primate,Cercopithecus erythrotis,20000,VU,Vulnerable,Decrease,FALSE
+Kloss's gibbon,Primate,Hylobates klossii,22500,EN,Endangered,Decrease,FALSE
+Siberut macaque,Primate,Macaca siberu,24000,VU,Vulnerable,Decrease,FALSE
+Mentawai langur,Primate,Presbytis potenziani,36000,EN,Endangered,Decrease,FALSE
+Bonobo,Primate,Pan paniscus,40000,EN,Endangered,Decrease,FALSE
+Bornean orangutan,Primate,Pongo pygmaeus,60000,CR,Critically Endangered,Decrease,FALSE
+Western gorilla,Primate,Gorilla gorilla,200000,CR,Critically Endangered,Decrease,FALSE
+Gelada,Primate,Theropithecus gelada,200000,LC,Least Concern,Decrease,FALSE
+Chimpanzee,Primate,Pan troglodytes,250000,EN,Endangered,Decrease,FALSE
+Müller's Bornean gibbon,Primate,Hylobates muelleri,315000,EN,Endangered,Decrease,FALSE
+Crab-eating macaque,Primate,Macaca fascicularis,2500000,VU,Vulnerable,,FALSE
+Human,Primate,Homo sapiens,7808000000,,,Increase,TRUE
