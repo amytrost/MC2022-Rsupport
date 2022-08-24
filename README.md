@@ -5,8 +5,8 @@ This repository includes:
   - Slides from the "Introduction to R" course
   - R code to accompany the "Introduction to R" course
   - Sample data sets to accompany the "Introduction to R" class
-  - Solutions to the exercises in the "Introduction to R" course
-  - Resources and links: Where to look for help programming in R
+  - Solutions to the exercises in the "Introduction to R" course (forthcoming)
+  - Resources and links: Where to look for help programming in R (forthcoming)
   
   Before programming in R, install both the R programming language and R studion:
   
