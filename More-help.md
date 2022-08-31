@@ -3,14 +3,10 @@ For More Help in R
 ------------------
 
 ### RStudio cheat sheets ###
-
-Main https://www.rstudio.com/resources/cheatsheets/
-
-Base R https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf
-
-Data visualization with ggplot2 https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf
-
-Data transformation with dplyr https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf
+* Main https://www.rstudio.com/resources/cheatsheets/
+* Base R https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf
+* Data visualization with ggplot2 https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf
+* Data transformation with dplyr https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf
 
 
 ### O'Reilly books and tutorials ###
