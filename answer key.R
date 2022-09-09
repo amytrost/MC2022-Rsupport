@@ -68,6 +68,11 @@ countries %>% group_by(Region) %>%
     arrange(desc(med_rain))
 
 
+## -------------------------
+## Exercise 3
+## -------------------------
+
+
 # 1. Filter the countries data set to include only data from South Asia. 
 #    With this subset, create a bar chart that reports average rainfall 
 #    in mm for each country.
