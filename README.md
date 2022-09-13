@@ -8,7 +8,7 @@ This repository includes:
   - answer key.R: Solutions to the exercises in the "Introduction to R" course 
   - More-help.md: Resources and links: Where to look for help programming in R
   
-  Before programming in R, install both the R programming language and R studion:
+  Before programming in R, install both the R programming language and R studio:
   
   Download R : 
 	https://cloud.r-project.org/
@@ -16,8 +16,8 @@ This repository includes:
   Download Rstudio Desktop (Open Source License):   
 	https://www.rstudio.com/products/rstudio/download/
 	
-	
-  In order to follow along with
-  
+ To follow along with the training presentation, download MC R workshop.R, wikipedia species list.csv, and worldbank google country data.csv to your computer.
+ 
+ 
   Questions? Please contact Amy Trost at the MC library: atrost@montgomerycollege.edu
 
