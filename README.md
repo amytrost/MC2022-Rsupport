@@ -1,5 +1,5 @@
 # MC2022-Rsupport
-Resources to support MC students with R programming, fall 2022
+Resources to support MC students with R programming, Fall 2022
 
 This repository includes:
   - 2022 R Session.pdf: slides from the "Introduction to R" course
