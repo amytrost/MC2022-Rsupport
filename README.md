@@ -16,7 +16,7 @@ This repository includes:
   Download Rstudio Desktop (Open Source License):   
 	https://www.rstudio.com/products/rstudio/download/
 	
- To follow along with the training presentation, download _MC R workshop.R_, _wikipedia species list.csv_, and w_orldbank google country data.csv_ to your computer.
+ To follow along with the training presentation, download _MC R workshop.R_, _wikipedia species list.csv_, and _worldbank google country data.csv_ to your computer.
  
  
   Questions? Please contact Amy Trost at the MC library: atrost@montgomerycollege.edu
