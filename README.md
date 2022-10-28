@@ -2,7 +2,7 @@
 Resources to support MC students with R programming, Fall 2022
 
 This repository includes:
-  - 2022 R Session.pdf: slides from the "Introduction to R" course
+  - [2022 R Session.pdf](https://github.com/amytrost/MC2022-Rsupport/blob/main/2022%20R%20session.pdf): slides from the "Introduction to R" course
   - MC R Workshop.R:  code to accompany the "Introduction to R" course
   - wikipedia species list.csv and worldbank google country data.csv: Sample data sets to accompany the "Introduction to R" class
   - answer key.R: Solutions to the exercises in the "Introduction to R" course 
